@@ -35,6 +35,10 @@
 		class ShiftCalculator
 		{
 		}
+		
+		class TableOrder
+		{
+		}
 	?>
 
 
