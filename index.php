@@ -29,10 +29,16 @@
 			
 		}
 		
+
 		class Bill
 		{
 		}
 		class order
+		{
+		}
+
+		class ShiftCalculator
+
 		{
 		}
 	?>
