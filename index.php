@@ -28,6 +28,13 @@
 		{
 			
 		}
+		
+		class Bill
+		{
+		}
+		class order
+		{
+		}
 	?>
 
 
