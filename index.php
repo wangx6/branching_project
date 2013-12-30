@@ -24,6 +24,10 @@
 				return TRUE;
 			}
 		}
+		class Table
+		{
+			
+		}
 	?>
 
 
