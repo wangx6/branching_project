@@ -28,6 +28,10 @@
 		{
 			
 		}
+		
+		class ShiftCalculator
+		{
+		}
 	?>
 
 
