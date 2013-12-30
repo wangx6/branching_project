@@ -26,7 +26,10 @@
 		}
 		class Table
 		{
-			
+			protected function isAvailable()
+			{
+				return TRUE;
+			}
 		}
 	?>
 
