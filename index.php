@@ -10,6 +10,7 @@
 	<?php
 		class DBConnect
 		{
+			echo 'what is going on master';
 		}
 		class Restaurant extends DBConnect
 		{
